@@ -4,6 +4,7 @@ Minimalistic blog site template, built with [Svelte](https://svelte.dev), [Svelt
 
 Write in markdown, publish in Svelte! Particularly simple, suprisingly powerful.
 
+## >> [DEMO](https://blogkit-demo.vercel.app) <<
 
 ## Features
 
