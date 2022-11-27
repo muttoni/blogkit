@@ -2,16 +2,17 @@
 
 Minimalistic blog site template, built with [Svelte](https://svelte.dev), [SvelteKit](https://kit.svelte.dev) and [MDsveX](https://mdsvex.com). Originally forked from [@mehdi_vasigh](https://twitter.com/mehdi_vasigh)'s [sveltekit-mdsvex-blog](https://github.com/mvasigh/sveltekit-mdsvex-blog/).
 
-Write in markdown, publish in Svelte! 
+Write in markdown, publish in Svelte! Particularly simple, suprisingly powerful.
 
 
 ## Features
 
-- The convenience of markdown, with the power of Svelte
-- Prism code highlighting (default theme is VSCode Dark)
-- Light, dark and OLED themes
-- Bleeding edge SvelteKit compatibility with new `+server` and `+page` routing
-- Server-side rendering (SSR) for ultra-fast loading
+- **Markdown & Svelte**: The convenience of markdown, with the power of Svelte
+- **Code Highlighting**: Prism code highlighting (default theme is VSCode Dark)
+- **Light/Dark Modes**: Light, dark and OLED themes
+- **Next-gen Framework**: Bleeding edge SvelteKit compatibility with new `+server` and `+page` routing
+- **SSR and SEO Friendly**: Server-side rendering (SSR) for ultra-fast loading and SEO performance.
+- **RSS Feed**: Automatically generated RSS Feed
 
 ## Getting started
 
