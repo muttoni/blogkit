@@ -1,6 +1,6 @@
-# `BlogKit`
+# BlogKit
 
-Minimalistic blog site template, built with [Svelte](https://svelte.dev), [SvelteKit](https://kit.svelte.dev) and [MDsveX](https://mdsvex.com). Originally forked from [@mehdi_vasigh](https://twitter.com/mehdi_vasigh)'s [sveltekit-mdsvex-blog](https://github.com/mvasigh/sveltekit-mdsvex-blog/).
+Minimalistic blog site template, built with [Svelte](https://svelte.dev), [SvelteKit](https://kit.svelte.dev) and [MDsveX](https://mdsvex.com). Originally forked from [@mehdi_vasigh](https://twitter.com/mehdi_vasigh)'s [sveltekit-mdsvex-blog](https://github.com/mvasigh/sveltekit-mdsvex-blog/), subsequently ported to the new SvelteKit version with several enhancements added.
 
 Write in markdown, publish in Svelte! Particularly simple, suprisingly powerful.
 
